@@ -47,6 +47,5 @@
 #define ASYNC_HTTP_REQUEST_GENERIC_H
 
 #include "AsyncHTTPRequest_Generic.hpp"
-#include "AsyncHTTPRequest_Impl_Generic.h"
 
 #endif    // ASYNC_HTTP_REQUEST_GENERIC_H
